@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+solu2
+referencebook
+leetcode
+homework
+graph
+class1
+class2
+class3
+class4
+class5
+PPT
